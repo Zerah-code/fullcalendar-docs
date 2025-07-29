@@ -7,5 +7,5 @@ gem 'jekyll', '3.6.3'
 
 gem 'kramdown'
 gem 'rouge'
-gem 'html-proofer'
+gem 'html-proofer', '>= 3.19.4'
 gem 'json'
